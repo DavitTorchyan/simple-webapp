@@ -1,4 +1,4 @@
-name: Pull Docker Image and Execute
+name: Index html version check
 
 on:
   workflow_dispatch:
